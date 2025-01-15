@@ -1,0 +1,14 @@
+How almost all software engineering work is done using git
+
+clone repo locally
+checkout new branch (create new branch)
+do some changes
+write unit tests
+commit changes using git
+puish changes
+open pull request
+
+get code review
+
+merge the feature branch onto main branch
+

@@ -11,3 +11,9 @@ const assertEqual = require('./test.js');
 
 // result = getFirstLetter('dog')
 // assertEqual('d', result)
+
+
+let obj = {name: "Mark", hobby: "software", age: 99}
+
+console.log(obj.name)
+console.log(obj.hobby)
