@@ -1,0 +1,44 @@
+Check in with course - has anyone done odin project?
+
+Important for them to join the course slack and experiment
+
+
+Introduction to command line
+touch
+ls
+cd
+pwd
+node
+ruby
+REPL
+homebrew/package management
+
+
+
+Introduction to github
+
+Then begin with the algos
+
+copy the files - show how I got this in ChatGPT
+
+Discuss chatgpt usage
+
+Show them my job scraping
+
+At this point, go through and start doing the algorithms
+
+=====================
+
+At this point, show the basics of DOM interactivity using javascript
+
+Great number game
+Alert
+console log
+pulling value from a field
+
+Model the process of searching a larger repo to find specific lines
+
+
+===========================
+
+Go back to the examples, ask the students to take more interest in the examples. Create a new github repo for the projects, and then kind of create a "homepage" which will link between the different apps

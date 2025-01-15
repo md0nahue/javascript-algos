@@ -1,0 +1,66 @@
+StudyFetch Technical Assignment
+Senior Fullstack Software Engineer
+
+DO NOT TURN IN AN INCOMPLETE OR NOT FUNCTIONAL PROJECT. IT WILL BE IMMEDIATELY DISQUALIFIED.
+Similar projects to this are done on the job on a weekly basis solo. If you are unable to complete this independently, you will not be able to perform on the job. 
+https://www.studyfetch.com/enterprise/mission
+
+Project Overview
+Create an AI tutor that helps students understand PDF documents through an interactive split-screen interface. Users should be able to chat with the AI (via text or voice) about the document while the AI can highlight and annotate relevant parts of the PDF in real-time.
+Technical Stack
+Next.js 14+ (App Router)
+Prisma with PostgreSQL or MongoDB
+Choice of LLM provider (OpenAI, Google, etc.) ai-sdk from vercel is helpful
+Choice of Speech-to-Text/Text-to-Speech API (or use the browsers)
+Tailwind CSS for styling
+Core Features
+Authentication
+Simple email/password signup and login
+User session management
+No complex permissions needed
+PDF Viewer
+Split-screen layout with PDF view and chat
+PDF upload and storage
+Basic PDF navigation (page turning)
+Ability for the LLM to highlight and annotate the PDF as its chatting with the user. 
+AI Tutor Integration
+Real-time chat interface
+Voice input/output capability
+Chat history persistence
+AI can reference and control PDF viewing like changing the page or referencing a piece of text with a page number
+AI can highlight/circle important content in the PDF
+Context-aware responses based on PDF content
+Database Integration
+Store user data and chat history
+Save PDF metadata and be able to relaunch the pdf
+Track conversation context
+
+Example User Experience:
+User will create an account or login to the site with an email / password
+Users can upload a PDF document to begin the chat with the tutor. 
+The PDF will load in and be visible in a split screen with a chat and the pdf
+The user can ask questions to the chat, e.g. for a biology presentation, “What is a virus”
+The chat will be able to navigate to appropriate pages, source the page #, and draw things on the PDF to highlight the appropriate text or image for e.g. a navigate to the page which explains what a virus is, and draw a circle around appropriate virus text or an image of the virus. 
+Users can close the browser window and reopen to see their chat history with the LLM and the PDF still there. 
+Deliverables
+GitHub repository with:
+Complete source code
+Setup instructions
+.env.example file
+Basic documentation
+Deployed public demo on vercel to access remotely that works and hits all of the core features
+Send completed deliverables to marelle@studyfetch.com
+Helpful Resources
+Prisma Documentation: https://www.prisma.io/docs/
+Vercel AI SDK: https://sdk.vercel.ai/docs
+Various LLM Provider Docs:
+OpenAI: https://platform.openai.com/docs
+Google AI: https://ai.google.dev/api/multimodal-live
+Notes
+The key challenge is implementing the AI's ability to highlight and annotate PDFs
+Focus on making the voice interaction smooth and natural
+Keep the UI clean and intuitive, make this a product you would ship as a developer at studyfetch.
+Make it something you'd want to use yourself
+We'll use this to evaluate your technical skills and problem-solving ability!
+
+

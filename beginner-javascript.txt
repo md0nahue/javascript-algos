@@ -1,0 +1,154 @@
+Variables and Printing:
+
+    Declare a variable to store your name and print it to the console.
+    Create a variable for your favorite color and print a message like "My favorite color is blue."
+
+Basic Math Operations:
+
+    Write a function that adds two numbers and returns the result.
+    Write a function that multiplies three numbers and returns the result.
+    Create a variable for a number and print whether it is even or odd.
+
+String Manipulation:
+
+    Write a function that takes a string and returns it in all uppercase.
+    Write a function that takes a string and returns the first character.
+    Write a function that reverses the characters in a string.
+
+Loops:
+
+    Print all the numbers from 1 to 10 using a for loop.
+    Use a while loop to count down from 10 to 1.
+    Write a loop that prints the multiplication table for the number 5.
+
+Arrays:
+
+    Create an array with the numbers 1 to 5 and print it.
+    Write a function that returns the length of an array.
+    Write a function that takes an array and prints each element on a new line.
+
+Conditionals:
+
+    Write a function that takes a number and prints "positive" if it’s greater than 0, "negative" if it’s less than 0, and "zero" if it’s 0.
+    Write a function that takes a number and returns "Even" or "Odd."
+    Write a function that takes a grade (0-100) and prints "Pass" if it’s 50 or more, otherwise prints "Fail."
+
+Combining Concepts:
+
+    Write a function that takes an array of numbers and returns the sum of all the numbers.
+    Write a function that takes an array of strings and returns the longest string.
+    Write a function that takes an array of numbers and returns only the even numbers.
+
+Functions:
+
+    Write a function that returns "Hello, World!"
+    Write a function that takes a name as input and returns "Hello, [name]!"
+    Write a function that calculates the square of a number.
+
+Random Numbers:
+
+    Write a function that generates a random number between 1 and 100.
+    Write a function that takes an array and returns a random element from it.
+
+Simple Projects (Optional Challenges):
+
+    Write a program that simulates a basic calculator (addition, subtraction, multiplication, division).
+    Create a "guess the number" game where the user has to guess a random number between 1 and 10.
+    Write a program that counts how many times the letter "a" appears in a string.
+
+Working with Numbers
+
+    Write a function that returns the square of a number.
+    Write a function that takes two numbers and returns the larger of the two.
+    Write a function that calculates the area of a rectangle given its width and height.
+    Write a function that takes a number and returns true if it's divisible by 3, and false otherwise.
+    Write a function that takes two numbers, adds them together, and returns true if the result is greater than 100, otherwise returns false.
+
+Strings
+
+    Write a function that takes a string and returns the last character.
+    Write a function that takes a string and returns true if it contains the letter "a", otherwise returns false.
+    Write a function that takes a string and a number, and returns the string repeated that many times.
+    Write a function that counts how many spaces are in a string.
+    Write a function that takes two strings and returns true if they are the same, ignoring case.
+
+Arrays
+
+    Write a function that takes an array and returns the first element.
+    Write a function that takes an array and returns the last element.
+    Write a function that takes an array and a number and checks if the number is in the array (return true or false).
+    Write a function that takes an array and returns a new array with all the elements doubled.
+    Write a function that takes an array of numbers and returns the largest number.
+    Write a function that takes an array and a value, and returns the index of the value in the array (or -1 if it’s not found).
+
+Loops
+
+    Write a function that sums all numbers in an array.
+    Write a function that takes a number and returns an array of all the numbers from 1 to that number.
+    Write a function that counts how many even numbers are in an array.
+    Write a function that takes a string and returns the number of vowels it contains.
+    Write a function that generates an array of numbers from 1 to 10 using a loop.
+
+Conditionals
+
+    Write a function that takes a number and returns "Fizz" if it’s divisible by 3, "Buzz" if it’s divisible by 5, and "FizzBuzz" if it’s divisible by both.
+    Write a function that takes a string and returns true if it’s a palindrome (the same forwards and backwards), and false otherwise.
+    Write a function that takes a temperature in Celsius and converts it to Fahrenheit.
+    Write a function that takes a number grade (0–100) and returns a letter grade (A, B, C, D, or F).
+
+Randomness
+
+    Write a function that generates a random number between two given numbers.
+    Write a function that shuffles an array (reorders the elements randomly).
+    Write a function that returns a random color name from an array of colors.
+
+Working with Objects
+
+    Write a function that takes an object with properties firstName and lastName and returns a full name as a string.
+    Write a function that takes an object with properties price and quantity and returns the total cost.
+    Write a function that takes an object and a property name, and returns true if the property exists in the object, otherwise false.
+
+Miscellaneous
+
+    Write a function that takes a number and returns true if it’s prime, and false otherwise.
+    Write a function that calculates the factorial of a number.
+    Write a function that takes two strings and returns the longer string.
+    Write a function that takes a year and returns true if it’s a leap year, and false otherwise.
+    Write a function that returns the current year.
+
+Working with Arrays
+
+    Find the Largest Number: Write a function that takes an array of numbers and returns the largest number in the array.
+    Find the Smallest Number: Write a function that takes an array of numbers and returns the smallest number in the array.
+    Get the Sum of Numbers: Write a function that takes an array of numbers and returns the sum of all the numbers in the array.
+    Get the Average: Write a function that takes an array of numbers and returns the average.
+    Filter Even Numbers: Write a function that takes an array of numbers and returns a new array containing only the even numbers.
+    Filter Odd Numbers: Write a function that takes an array of numbers and returns a new array containing only the odd numbers.
+    Reverse an Array: Write a function that takes an array and returns a new array with its elements in reverse order.
+    Find Duplicates: Write a function that takes an array and returns an array of all the duplicate elements.
+    Remove Duplicates: Write a function that takes an array and returns a new array with all duplicates removed.
+    Find the Index of an Element: Write a function that takes an array and an element, and returns the index of that element (or -1 if not found).
+    Check if an Array is Sorted: Write a function that takes an array and returns true if it’s sorted in ascending order, and false otherwise.
+    Flatten a Nested Array: Write a function that takes a nested array and returns a flattened version of the array.
+    Rotate an Array: Write a function that takes an array and a number, and rotates the array to the right by that number of positions.
+    Get Unique Elements: Write a function that takes two arrays and returns a new array containing only the elements that are unique to each array.
+    Find Common Elements: Write a function that takes two arrays and returns a new array containing only the elements found in both arrays.
+
+Working with Strings
+
+    Find the Longest Word: Write a function that takes a sentence (string) and returns the longest word.
+    Find the Shortest Word: Write a function that takes a sentence (string) and returns the shortest word.
+    Count Words: Write a function that takes a string and returns the number of words in it.
+    Reverse a String: Write a function that takes a string and returns the reversed version of it.
+    Check for Palindrome: Write a function that takes a string and returns true if it’s a palindrome, and false otherwise.
+    Count Vowels and Consonants: Write a function that takes a string and returns the number of vowels and consonants in it.
+    Capitalize Words: Write a function that takes a string and returns a new string where the first letter of each word is capitalized.
+    Convert to Uppercase: Write a function that takes a string and returns the string in all uppercase letters.
+    Convert to Lowercase: Write a function that takes a string and returns the string in all lowercase letters.
+    Remove Whitespace: Write a function that takes a string and returns the string with all whitespace removed.
+    Count a Specific Character: Write a function that takes a string and a character, and returns the number of times that character appears in the string.
+    Replace a Substring: Write a function that takes a string, a substring to find, and a replacement string, and returns the string with all occurrences of the substring replaced.
+    Find the First Non-Repeating Character: Write a function that takes a string and returns the first character that does not repeat.
+    Get Substring: Write a function that takes a string, a starting index, and an ending index, and returns the substring within that range.
+    Count Occurrences of a Word: Write a function that takes a string and a word, and returns the number of times the word appears in the string.
+    Check if a String Contains Another String: Write a function that takes two strings and returns true if the first string contains the second string, and false otherwise.
